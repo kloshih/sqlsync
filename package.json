@@ -1,0 +1,25 @@
+{
+  "name": "sqlsync",
+  "version": "1.0.0",
+  "description": "Multi-source SQL data synchronization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kloshih/sqlsync.git"
+  },
+  "keywords": [
+    "query",
+    "sql",
+    "sync",
+    "synchronization"
+  ],
+  "author": "Lo Shih <kloshih@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kloshih/sqlsync/issues"
+  },
+  "homepage": "https://github.com/kloshih/sqlsync#readme"
+}
