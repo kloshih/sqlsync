@@ -1,6 +1,6 @@
 {
   "name": "sqlsync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multi-source SQL data synchronization",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,8 @@
   "optionalDependencies": {
     "pg": "^7.4.3",
     "pg-query-stream": "^1.1.1"
+  },
+  "dependencies": {
+    "knex": "^0.15.0"
   }
 }
